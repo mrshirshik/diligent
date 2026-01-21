@@ -1,0 +1,14 @@
+# Large Model Files
+*.gguf
+*.bin
+backend/models/
+
+# Environment & Secrets
+.env
+backend/.env
+
+# Dependencies & System
+node_modules/
+venv/
+__pycache__/
+.DS_Store

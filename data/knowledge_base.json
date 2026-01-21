@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "title": "string",
+      "content": "string",
+      "category": "general",
+      "tags": [],
+      "source": "string",
+      "created_at": "2026-01-21T16:17:04.107733",
+      "updated_at": "2026-01-21T16:17:04.107759"
+    }
+  ]
+}
